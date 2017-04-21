@@ -1,0 +1,30 @@
+{
+  "name": "dev-bro",
+  "version": "0.0.1",
+  "description": "Runs jest and flow in watch mode side by side",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "dev-bro": "index.js"
+  },
+  "keywords": [
+    "flow",
+    "jest",
+    "cli",
+    "watch"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DanielMSchmidt/dev-bro.git"
+  },
+  "author": "Daniel Schmidt <danielmschmidt92@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielMSchmidt/dev-bro/issues"
+  },
+  "homepage": "https://github.com/DanielMSchmidt/dev-bro#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.7.5"
+  }
+}
