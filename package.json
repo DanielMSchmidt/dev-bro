@@ -1,6 +1,6 @@
 {
   "name": "dev-bro",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Runs jest and flow in watch mode side by side",
   "main": "index.js",
   "scripts": {},
